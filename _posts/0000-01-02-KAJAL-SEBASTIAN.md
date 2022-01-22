@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"Life isn't about finding yourself.Life is about creating yourself"
 Use the left arrow to go back!
